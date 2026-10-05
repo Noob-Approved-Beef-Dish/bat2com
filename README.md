@@ -1,6 +1,9 @@
 # bat2com
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![tests](https://github.com/Noob-Approved-Beef-Dish/bat2com/actions/workflows/tests.yml/badge.svg)](https://github.com/Noob-Approved-Beef-Dish/bat2com/actions/workflows/tests.yml)
+
+**English** | [中文](README.zh-CN.md)
 
 Turn **DOS DEBUG scripts** into ready-to-run **.COM** programs.
 

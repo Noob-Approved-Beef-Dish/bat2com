@@ -1,0 +1,28 @@
+name: tests
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  windows:
+    name: Windows PowerShell 5.1
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Show environment
+        shell: pwsh
+        run: |
+          node --version
+          $PSVersionTable.PSVersion
+          cmd /c ver
+
+      - name: Run the converter test suite
+        shell: pwsh
+        run: node tests/run-tests.js
