@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![tests](https://github.com/Noob-Approved-Beef-Dish/bat2com/actions/workflows/tests.yml/badge.svg)](https://github.com/Noob-Approved-Beef-Dish/bat2com/actions/workflows/tests.yml)
+[![release](https://img.shields.io/github/v/release/Noob-Approved-Beef-Dish/bat2com)](https://github.com/Noob-Approved-Beef-Dish/bat2com/releases/latest)
 
 **English** | [中文](README.zh-CN.md)
 
@@ -10,6 +11,8 @@ Turn **DOS DEBUG scripts** into ready-to-run **.COM** programs.
 ## Get it
 
     git clone https://github.com/Noob-Approved-Beef-Dish/bat2com
+
+Or grab the packaged source from the [latest release](https://github.com/Noob-Approved-Beef-Dish/bat2com/releases/latest).
 
 Copy `bat2com.bat` and `debug2com.ps1` anywhere you like; they only need each other.
 

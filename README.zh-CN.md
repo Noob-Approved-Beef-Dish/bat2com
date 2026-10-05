@@ -2,12 +2,15 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![tests](https://github.com/Noob-Approved-Beef-Dish/bat2com/actions/workflows/tests.yml/badge.svg)](https://github.com/Noob-Approved-Beef-Dish/bat2com/actions/workflows/tests.yml)
+[![release](https://img.shields.io/github/v/release/Noob-Approved-Beef-Dish/bat2com)](https://github.com/Noob-Approved-Beef-Dish/bat2com/releases/latest)
 
 [English](README.md) | **中文**
 
 把 **DOS DEBUG 脚本** 转换成可直接运行的 **.COM 程序**。
 
     git clone https://github.com/Noob-Approved-Beef-Dish/bat2com
+
+或从 [最新 Release](https://github.com/Noob-Approved-Beef-Dish/bat2com/releases/latest) 下载打包源码。
 
 英文主文档见 [README.md](README.md)。
 
