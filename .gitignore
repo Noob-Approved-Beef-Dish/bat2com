@@ -1,0 +1,12 @@
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# generated output
+*.com
+*.bin
+!tests/fixtures/*.com
+
+# local scratch
+/tmp/
+_new/
