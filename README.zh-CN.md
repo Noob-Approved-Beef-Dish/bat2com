@@ -1,6 +1,10 @@
 # bat2com · 中文说明
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 把 **DOS DEBUG 脚本** 转换成可直接运行的 **.COM 程序**。
+
+    git clone https://github.com/Noob-Approved-Beef-Dish/bat2com
 
 英文主文档见 [README.md](README.md)。
 

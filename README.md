@@ -1,6 +1,14 @@
 # bat2com
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Turn **DOS DEBUG scripts** into ready-to-run **.COM** programs.
+
+## Get it
+
+    git clone https://github.com/Noob-Approved-Beef-Dish/bat2com
+
+Copy `bat2com.bat` and `debug2com.ps1` anywhere you like; they only need each other.
 
 Many retro tutorials, patches and mods ship code as a `DEBUG` script — a plain
 text listing of `e100 B8 00 4C CD 21` lines — because text is easy to share.
